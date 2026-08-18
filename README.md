@@ -9,6 +9,7 @@ Este repositorio contiene todo el código fuente correspondiente al *Trabajo Pr�
 ├── dataset/                           # Dataset (Telco Customer Churn)
 ├── .gitignore
 ├── README.md
+├── TD-VI-TP1-consigna.pdf
 ├── ml-lifecycle-analysis.ipynb        # Jupyter Notebook (TP)
 └── requirements.txt                   # Dependencias del proyecto
 ```
